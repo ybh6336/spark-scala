@@ -1,0 +1,6 @@
++ sbt downloads dependencies to ~/.ivy2
+
++ sbt package
+
++ spark-submit --class BasicMap target/scala-2.10/spark-scala_2.10-1.0.jar
+
